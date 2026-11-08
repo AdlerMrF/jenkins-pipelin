@@ -1,4 +1,4 @@
-# jenkins-pipeline
+# jenkins-pipelin
 
 Demo de **Jenkins + Pipeline as Code**: uma calculadora mínima em Python, testes com `unittest` e um `Jenkinsfile` que testa, gera o build e arquiva o artefato a cada push.
 
